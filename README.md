@@ -1,2 +1,2 @@
-# rj8.github.io
+# Personal Blog
 To publish personal website
